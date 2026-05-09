@@ -429,6 +429,7 @@ target_sources(rpcs3_emu PRIVATE
     Io/RB3MidiKeyboard.cpp
     Io/recording_config.cpp
     Io/Skylander.cpp
+    Io/tas_input.cpp
     Io/TopShotElite.cpp
     Io/TopShotFearmaster.cpp
     Io/Turntable.cpp
